@@ -19,8 +19,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.12.2
-
+        python-version: 3.12.2 # Use the available Python version
 
     - name: Run Python script
-      run: python C:\Users\Nimisha\OneDrive\Desktop\python\dev
+      run: python C:\Users\Nimisha\OneDrive\Desktop\python\dev\addition.py
