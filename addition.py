@@ -1,6 +1,6 @@
 # Get input from the user
-num1 = float(input("Enter the first number: "))
-num2 = float(input("Enter the second number: "))
+num1 = 12
+num2 = 2
 
 # Perform addition
 result = num1 + num2
